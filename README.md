@@ -1,2 +1,2 @@
-# tictactoe
-tictactoe Game,  web game, AI .
+# TicTacToe
+TicTacToe Game, web game. DeepSeek AI code gen.
